@@ -1,7 +1,10 @@
-// SPDX-License-Identifier: AGPL-3.0-or-later
+image:https://img.shields.io/badge/license-PMPL--1.0-blue.svg[License,link="https://github.com/hyperpolymath/palimpsest-license"]
+// SPDX-License-Identifier: PMPL-1.0
 = DEI-SSG
 
-image:https://img.shields.io/badge/license-AGPL--3.0-blue.svg[AGPL-3.0,link="https://www.gnu.org/licenses/agpl-3.0"] image:https://img.shields.io/badge/philosophy-Palimpsest-purple.svg[Palimpsest,link="https://github.com/hyperpolymath/palimpsest-licence"]
+
+
+
 :toc:
 :sectnums:
 
@@ -9,7 +12,6 @@ image:https://img.shields.io/badge/license-AGPL--3.0-blue.svg[AGPL-3.0,link="htt
 
 image:https://img.shields.io/badge/Language-WokeLang-e91e63[WokeLang]
 image:https://img.shields.io/badge/SSG-Ethical-00c853[SSG]
-image:https://img.shields.io/badge/License-AGPL%203.0-blue[License]
 image:https://img.shields.io/badge/poly--ssg--mcp-satellite-cd7f32[poly-ssg-mcp]
 
 == Who Is This For?
@@ -157,7 +159,7 @@ just serve
 
 == License
 
-SPDX-License-Identifier: `AGPL-3.0-or-later`
+SPDX-License-Identifier: PMPL-1.0
 
 == Links
 
